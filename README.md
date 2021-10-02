@@ -1,1 +1,2 @@
-# Bot-WA
+# SC-BOT-WA
+Subscribe Channel Hanbu FF
